@@ -34,9 +34,4 @@ It demonstrates basic data analysis and a short energy-audit style report using 
 ## Tools & libs
 Python, pandas, numpy, matplotlib, fpdf (for report generation).
 
-## Extensions (ideas)
-- Add payback/ROI calculation (system cost vs savings)  
-- Compare multiple locations or tilt/azimuth sensitivity  
-- Package as a Streamlit app for interactive audits
-
 ---
